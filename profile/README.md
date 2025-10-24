@@ -1,9 +1,7 @@
+![GitHub Org Stars](https://img.shields.io/github/stars/tuckfow?style=for-the-badge)
+
 Welcome to **Tuckfow** – a personal/fictional tech brand for coding experiments and projects.  
 Nothing commercial, just code, learning, and fun.  
-
----
-
-![GitHub Org Stars](https://img.shields.io/github/stars/tuckfow?style=for-the-badge)
 
 ---
 
