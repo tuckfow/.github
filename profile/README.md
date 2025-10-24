@@ -1,5 +1,3 @@
-# Tuckfow
-
 Welcome to **Tuckfow** – a personal/fictional tech brand for coding experiments and projects.  
 Nothing commercial, just code, learning, and fun.  
 
